@@ -13,7 +13,7 @@ struct Libro {
     bool prestado;
     Libro* siguiente;
 };
-
+cout<<"xd";
 class GestorBiblioteca {
 private:
     Libro* cabeza;
